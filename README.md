@@ -10,8 +10,8 @@ I hope you like it, code it and [watch it](https://gustavolando.github.io/otRing
 
 ![Ring of Fire](https://gustavolando.github.io/otRingOfFire/Ring%20of%20Fire%201.png)
 
-![Ring of Fire](https://gustavolando.github.io/otRingOfFire/Ring%20of%20Fire%201.png)
+![Ring of Fire](https://gustavolando.github.io/otRingOfFire/Ring%20of%20Fire%202.png)
 
-![Ring of Fire](https://gustavolando.github.io/otRingOfFire/Ring%20of%20Fire%201.png)
+![Ring of Fire](https://gustavolando.github.io/otRingOfFire/Ring%20of%20Fire%203.png)
 
 Here is the animation demo link:  https://gustavolando.github.io/otRingOfFire/
